@@ -163,6 +163,9 @@ footer p {
     display: flex;
     justify-content: center;
   }
+   .mobileInvisible {
+    display: none;
+  }
 }
 
 
